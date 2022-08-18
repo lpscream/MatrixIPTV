@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matrix IPTV</string>
+    <string name="no_connection_message">Нет соединения</string>
+    <string name="service_unavailable_message">Сервис недоступен</string>
+    <string name="other_trouble_message">Нет соединения
+        с сервером</string>
+    <string name="try_again">Попробуйте еще раз</string>
+    <string name="empty_list">Данный ресурс доступен
+        только абонентам
+        телеком-оператора
+        MATRIX
+        с домашним подключением
+        (физическим лицам).
+             \n
+             \n
+             \n
+        Все детали можно
+        уточнить по номерам:
+        206-05-20, 050-367-20-20.</string>
+    <string name="empty">"      "</string>
+    <string name="no_guides">"Нет программы передач"</string>
+    <string name="no_signal">"Канал не работает"</string>
+    <string name="connection_failed">"Нет соединения с интернет"</string>
+    <string name="error_connection_internet">"Плохое соединение с интернет"</string>
+    <string name="alertForUpdate">"Доступно обновление приложения \"Matrix IPTV\" - желаете обновиться? Если вы согласны - вы будете перенаправлены к скачиванию APK файла, который затем нужно будет открыть."</string>
+    <string name="exitAPP">Выход</string>
+
+    <string-array name="categories">
+        <item>Все</item>
+        <item>Информационные</item>
+        <item>Развлекательные</item>
+        <item>Для детей</item>
+        <item>Кино</item>
+        <item>Познавательные</item>
+        <item>Спорт</item>
+        <item>Музыка</item>
+        <item>Бизнес</item>
+        <item>Тематические</item>
+    </string-array>
+</resources>
